@@ -1,0 +1,21 @@
+{
+  "name": "fabric-test",
+  "version": "1.0.0",
+  "description": "## 目录说明 - src 目录下是最简版的案例代码，我们看这个目录下的就行",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidgeek/fabric-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidgeek/fabric-test/issues"
+  },
+  "homepage": "https://github.com/sidgeek/fabric-test#readme"
+}
